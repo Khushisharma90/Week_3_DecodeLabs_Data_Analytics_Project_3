@@ -1,6 +1,4 @@
 # Week_3_DecodeLabs_Data_Analytics_Project_3
-DATA ANALYTICS PROJECT 3 
-# DECODE LABS DATA ANALYTICS PROJECT 3: SQL DATA ANALYSIS
 
 ## 📌 Project Overview
 This project, titled **"Querying for Truth"**, marks the structural transition from front-end spreadsheet manipulation to programmatic database architecture using relational query engines. When processing large-scale operational records (1,200 transaction logs), utilizing client-side applications often triggers memory leaks or data type mismatch anomalies. This project eliminates structural boundaries by executing an optimized, relational query script directly inside the database system to extract core continuous statistical tendencies, filter precise operational constraints, and generate corporate intelligence.
